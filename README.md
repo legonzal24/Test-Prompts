@@ -254,7 +254,3 @@ The objective is **to test** the feasibility of local LLM inference on the refer
 - **No GPU telemetry:** The suite does not establish GPU utilization or acceleration effectiveness.
 - **No automatic multi-run statistical analysis:** Repeated execution and aggregate analysis must be performed separately.
 - **Potential output truncation:** Inspect the status and generated-text length before judging response quality.
-
-## License
-
-No license is specified in this README. Add a `LICENSE` file if you intend to grant others permission to reuse, modify, or redistribute the project.
